@@ -40,7 +40,7 @@ You can obtain the dataset from [Kaggle](https://www.kaggle.com/datasets/lukebar
 # Accessing the Dataset
 You can access the dataset in two ways:
 - **Manual Download**: Download the dataset directly from Kaggle.
-- **Remote Source**: Access the dataset through a provided [remote link](https://storage.googleapis.com/gsearch_share/gsearch_jobs).
+- **Remote Source**: Access the dataset through a provided [remote link](https://storage.googleapis.com/gsearch_share/gsearch_jobs.csv)).
 
 
 The first dashboard will utilize the manually downloaded dataset, while the second dashboard will draw data from the remote source.
